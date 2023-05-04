@@ -2,7 +2,7 @@
 
 ## Contextualização
 
--Neste experimento faz com que o LED incorporado e os LED pisque utilizando o pino digital 13 (LED_BUILTIN).<br>
+-Neste experimento faz com que o LED incorporado e os LED pisque paralelamente utilizando o pino 13 (LED_BUILTIN) e o pino 12.<br>
 
 ## Esquema do projeto
 
